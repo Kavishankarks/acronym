@@ -20,7 +20,7 @@ dic=dic1
 def display():
 	st.title("   \t\tAcronym for your texts")
 	# st.error("(No more scratching head)")
-	st.write("Designed by Kavishankar K S for his friends")
+	st.write("Designed by Kavishankar K S")
 
 def word(a):
     if(a in dic):
